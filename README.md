@@ -23,6 +23,10 @@ YATRA360 presents a revolutionary solution in the field of Travel & Tourism. We 
 
 
 
+https://github.com/yesiamrajeev/YATRA360/assets/125568812/7acdcda0-bbfd-4992-bbe2-263634073868
+
+
+
 ## Features
 
 - Showcase frequently visited/popular places in India
